@@ -1,0 +1,23 @@
+This is LOVE 0.5.0 (Salted Nuts).
+
+INIT love.filesystem [PhysFS]
+INIT love.graphics [OpenGL/DevIL/FreeType]
+INIT love.audio [SDL_mixer]
+INIT love.timer [SDL]
+INIT love.mouse [SDL]
+INIT love.keyboard [SDL]
+INIT love.physics [Box2D]
+INIT love.lib [LuaSocket] 
+INIT love.joystick [SDL]
+INIT love.system [Generic]
+F:\Programming Portfolio\CaveBounce (Lua script)\caveBounce.exe
+QUIT love.system [Generic]
+QUIT love.joystick [SDL]
+QUIT love.lib [LuaSocket] 
+QUIT love.physics [Box2D]
+QUIT love.keyboard [SDL]
+QUIT love.mouse [SDL]
+QUIT love.timer [SDL]
+QUIT love.audio [SDL_mixer]
+QUIT love.graphics [OpenGL/DevIL/FreeType]
+QUIT love.filesystem [PhysFS]
