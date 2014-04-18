@@ -6,7 +6,7 @@ Programmed in Lua, for the L�ve game engine
 
 
 extract the files and then run the CaveBounce.exe file to play.
-controls are explained ingame. (WASD and Z)
+controls are explained ingame. (Arrow keys and Z)
 
 
 Some screenshots:
